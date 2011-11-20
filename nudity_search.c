@@ -7,7 +7,7 @@
  *
  *	For compile use next string:
  *
- *	gcc -Wall nudity_searcher.c -o NuditySearcher `sudo pkg-config --cflags gtk+-2.0 --libs gtk+-2.0 --cflags libpng12 --libs libpng12  --cflags gtk+-2.0 --libs gtk+-2.0`
+ *	gcc -Wall nudity_search.c -o NuditySearch `sudo pkg-config --cflags gtk+-2.0 --libs gtk+-2.0 --cflags libpng12 --libs libpng12  --cflags gtk+-2.0 --libs gtk+-2.0`
  */
 
 #include <unistd.h>
